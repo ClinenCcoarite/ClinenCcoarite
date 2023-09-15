@@ -1,6 +1,21 @@
 ### Hola, mi nombre es Clinen 👋
 -------------------------------------
+### Front-End developer
 
+Soy Ingeniero de Sistemas y Front-End profesional.
+
+Me gradue de la universidad Nacional del Altiplano Puno en Peru en el año 2019
+
+> 👥 [Microsoft MVP]() (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+
+## Tecnologías:
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
+
+#### ¡Gracias!
 <!--
 **ClinenCcoarite/ClinenCcoarite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
