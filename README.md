@@ -2,9 +2,9 @@
 -------------------------------------
 ### Front-End developer
 
-Soy Ingeniero de Sistemas y Front-End profesional.
+Soy Ingeniero de Sistemas y Front-End Developer.
 
-Me gradue de la universidad Nacional del Altiplano Puno en Peru en el año 2019
+Me gradue de la universidad Nacional del Altiplano Puno en Peru en el año 2019, desarrolle mi afición o pasión por el desarrollo web durante mis dias de estudiante en la universidad
 
 ## Tecnologías:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
